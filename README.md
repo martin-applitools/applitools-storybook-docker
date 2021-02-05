@@ -5,5 +5,5 @@ Out of the Box Example React App integrated with Storybook and Applitools.  Assu
 
 1) Clone the repo
 2) cd applitools-storybook-docker/tutorial-storybook-angular
-3) edit applitools.config.js replace INSERT API KEY with your Applitools API Key   
+3) edit applitools.config.js replace INSERT API KEY with your Applitools API Key and save the file.  
 4) docker-compose up
