@@ -4,7 +4,7 @@ module.exports = {
   showLogs: false,
   //runInDocker: true,
   batchName: 'StoryBook Angular Example',
-  apiKey: '598dR5lXjc1BABfsyWMFkxL8KGw8BI4CdxuUGqFQJTJY110',
+  apiKey: 'INSERT API KEY',
   browser: [
     {width: 800, height: 600, name: 'firefox'},
     {width: 1024, height: 768, name: 'chrome'},
