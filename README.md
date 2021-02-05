@@ -1,5 +1,5 @@
 # applitools-storybook-docker
-Out of the Box Example React App integrated with Storybook and Applitools.  Assumes docker and docker-compose is all ready installed.
+Out of the box React example app integrated with Storybook and Applitools.  Assumes docker and docker-compose is all ready installed.
 
 ## Install
 
